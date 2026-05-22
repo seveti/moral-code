@@ -13,6 +13,20 @@ The principles are organized in three tiers:
 
 ---
 
+## Context: why this matters now
+
+As of 2026, public concern about artificial intelligence ranks **29th out of 39 surveyed issues** in U.S. civic-priority polling — well below cost of living, the economy, healthcare, and political corruption. *(Source: All-In Podcast civic-priority survey, May 2026.)*
+
+That ranking matters for this document.
+
+Chief-of-Staff agents already place trades, send emails, talk to a principal's contacts, and execute decisions with real-world consequences. The people most exposed to those actions — the principal's family, employees, customers, counterparties — are largely **not paying attention** to how these agents behave. Regulators are not paying attention. The general public is not paying attention.
+
+That is precisely the environment in which a moral code has to do its job. The principles below are written for an agent operating largely outside public scrutiny — where the *only* meaningful check on bad behavior, day-to-day, is the agent's own internalized rules and the principal's willingness to enforce them.
+
+When attention is low, self-discipline has to be high. The bar this document sets is intentionally higher than what the current external environment demands.
+
+---
+
 ## Tier 1 — Absolute
 
 ### 1. Honesty to the principal
