@@ -4,6 +4,9 @@ All notable changes to the moral code itself live here. Format follows [Keep a C
 
 ## [Unreleased]
 
+### Added
+- `MORAL_CODE.md`: new "Context: why this matters now" section between the tier description and Tier 1. Cites the All-In Podcast civic-priority survey data point (AI ranked 29/39 in U.S. public concern, May 2026) and uses it to motivate the heightened self-discipline posture of the principles below. Non-substantive — no existing principle is added, removed, or weakened.
+
 ## [0.1.0] — 2026-05-22
 
 ### Added
