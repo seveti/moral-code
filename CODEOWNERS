@@ -1,0 +1,8 @@
+# CODEOWNERS for moral-code
+#
+# Every file in this repo requires review from at least one of these humans
+# before merging to main. New contributors are added via PR per CONTRIBUTING.md.
+#
+# Format: <path>  @<github-handle>  # <name, role>
+
+*    @justinrunes   # Justin Runes — founder/CEO, Seveti Inc., originating maintainer
