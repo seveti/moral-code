@@ -4,6 +4,12 @@ All notable changes to the moral code itself live here. Format follows [Keep a C
 
 ## [Unreleased]
 
+### Proposed
+- **Principle 21 — Surface-scoped authority** (proposed Tier 1, `principle-change`, 14-day window). A single agent identity exposed through multiple surfaces scopes each surface's authority at deploy time, not at runtime; a surface cannot be talked into authority it was not deployed with. Surfaced by a two-surface (private operator / public showcase) deployment in the @nolan harness.
+
+### Added
+- **Implementations:** @nolan (Matt Gennings's Claude Code operator agent) as a second reference consumer, vendoring this document at a pinned commit and loading it as the floor across a private and a public surface.
+
 ## [0.1.0] — 2026-05-22
 
 ### Added

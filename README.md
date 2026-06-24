@@ -71,4 +71,5 @@ Apache 2.0 — see [LICENSE](./LICENSE). The intent is that any agent harness, c
 Agent harnesses that consume this code:
 
 - **[OpenClaw](https://github.com/openclaw)** — Justin Runes's Oliver agent (this repo's origin context). Loaded via `~/.openclaw/workspace/SOUL.md` reference.
+- **[@nolan](https://github.com/mgennings)** — Matt Gennings's operator agent (Claude Code harness). Vendored at a pinned commit into `~/.agents/soul/MORAL_CODE.md` and loaded first at boot, ahead of the agent's own `SOUL.md`, across two surfaces — a private full-operator and a public showcase — that share this floor but not the principal's data or authority.
 - _Add yours via PR._
